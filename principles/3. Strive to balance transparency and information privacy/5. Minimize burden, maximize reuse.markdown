@@ -1,0 +1,16 @@
+---
+title: '3.5. Minimize burden, maximize reuse'
+permalink: /principles/3/5
+parent: ['3. Strive to balance transparency and information privacy', '/principles/3']
+---
+Share data with your Department, and with other federal agencies (with appropriate agreements in place) to reduce the burden of duplicate data collection.
+
+## Illustrative Practices
+- Visit Data.gov to see what data is available that you may use
+
+## Key Resources
+[Resources.data.gov](https://resources.data.gov/) is an online repository of policies, tools, case studies, and other resources to support data governance, management, exchange, and use throughout the federal government
+[The Paperwork Reduction Act](https://pra.digital.gov/do-i-need-clearance/)
+[Equitable Data Toolkit (Federal Committee on Statistical Methodology (FCSM), November 2023)](https://nces.ed.gov/fcsm/pdf/Master_File_FCSM_Equity_Toolkit_508c.pdf) – see the sections on Data Collection and Data Access and Dissemination
+[Data Governance: Quality Framework for Integrated Data Systems (Actional Institute for Social Policy)](https://aisp.upenn.edu/quality-framework-for-integrated-data-systems/)
+[Data Sharing Landscape (Actional Institute for Social Policy)](https://aisp.upenn.edu/data-sharing-landscape/)

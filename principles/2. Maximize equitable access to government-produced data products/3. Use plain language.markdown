@@ -1,0 +1,15 @@
+---
+title: '2.3. Use plain language'
+permalink: /principles/2/3
+parent: ['2. Maximize equitable access to government-produced data products', '/principles/2']
+---
+To make data and data products widely understood, we should use clear and universal language. “Plain language” is a standard often described as communication an audience can understand the first time they read it. It refers to concise, conversational descriptions. Data practitioners are responsible for documenting, describing and presenting work and data products derivatives to colleagues, stakeholders and on government websites. When we do so, we strive for plain language descriptions of high quality that are tested to vet clarity and quality.
+## Guidelines
+- Choose your words carefully
+- Be concise
+- Minimize acronyms
+- Minimize technical jargon
+- Test your text or product as widely as possible with users
+
+## Key Resources
+- [PlainLanguage.gov](https://www.plainlanguage.gov)

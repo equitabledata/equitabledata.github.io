@@ -1,0 +1,6 @@
+---
+title: '3.3. Be conscientious about re-identification risk'
+permalink: /principles/3/3
+parent: ['3. Strive to balance transparency and information privacy', '/principles/3']
+---
+Employ sound data security practices, protect individual privacy, maintain promised confidentiality, and ensure appropriate access and use.

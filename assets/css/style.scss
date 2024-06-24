@@ -1,0 +1,34 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+// Add your own CSS here
+.page-header {
+    padding: 40px 100px;
+}
+
+.project-tagline {
+    margin-bottom: 0;
+}
+
+#content {
+    display:flex;
+    flex-direction:column;
+}
+
+.main-content-inner {
+    display:flex;
+    flex-direction:row;
+}
+
+.page-content {
+    flex: 1 1 100%;
+}
+
+.site-nav {
+    display:flex;
+    flex-direction:column;
+    flex: 1 0 200px;
+    margin-right: 20px;
+}

@@ -1,0 +1,18 @@
+---
+title: '2.1. Make data products accessible to all'
+permalink: /principles/2/1
+parent: ['2. Maximize equitable access to government-produced data products', '/principles/2']
+---
+# Make data products accessible (i.e., 508-compliant)
+Federal agencies must provide information and communications technology (ICT) that is accessible to people with disabilities. We must also give Federal employees, contractors and members of the public with disabilities access to information comparable to the access available to those without disabilities ([section508.gov](https://www.section508.gov)). As data practitioners, we develop accessible products in ways aligned with the format and software of the data product.
+
+## Guidelines
+- Do not rely on color alone to convey information. A good rule of thumb is to ensure whatever you are doing, it is legible in black and white. As an example, add distinguishing marks to line graphs.
+- Ensure that colors can be differentiated, aligning with Web Content Accessibility Guidelines (WCAG) standards. Use contrast checker tools to benchmark your accessibility level.
+- Use clear and legible titles and descriptions for graphs and charts. Describe interactive elements in dashboards and use effective alt-text with images.
+- Sequence your product for screenreaders. Typically, text and data products utilize a ‘Z’ pattern that mimics the reading sequence of a sighted user. Make sure screenreaders can engage with nested and interactive elements.
+- Provide alternative ways to access data, such as clear tabular .csvs to accompany dashboards, or website links within alt text descriptions.
+- Consult the specific guidance for the format and software you are using. Leverage tools like the Accessibility Checkers in Microsoft products. Understand and promote your agency’s teams and resources for additional 508 review.
+
+## Key resources
+- Government-wide Section 508 site: [section508.gov](https://www.section508.gov)

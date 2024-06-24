@@ -1,0 +1,13 @@
+---
+title: '3.4. Employ ethical behavior to respect the rights of individuals and communities who provide the data'
+permalink: /principles/3/4
+parent: ['3. Strive to balance transparency and information privacy', '/principles/3']
+---
+!WORK IN PROGRESS!
+- Knowledge of rules and regulations around how we have communicated to the public – the public/stakeholders having 	awareness so they don’t misuse the information 
+- Informed consent
+
+## Key Resources
+[Good Practice Principles for Data Ethics in the Public Sector (OECD Working Party of Senior Digital Government Officials)](https://web-archive.oecd.org/2021-03-26/583397-good-practice-principles-for-data-ethics-in-the-public-sector.pdf)
+[Ethics and Empathy in Using Imputation to Disaggregate Data for Racial Equity: Recommendations and Standards Guide (Urban Institute, July 2021)](https://www.urban.org/research/publication/ethics-and-empathy-using-imputation-disaggregate-data-racial-equity-recommendations-and-standards-guide)
+[The Book Look: We The People (Playbook for Data Ethics) (The Data Administration Newsletter, 10/19/22)](https://tdan.com/the-book-look-we-the-people-playbook-for-data-ethics/30015)

@@ -1,0 +1,16 @@
+---
+title: '2.2. Include data glossaries, dictionaries and guides'
+permalink: /principles/2/2
+parent: ['2. Maximize equitable access to government-produced data products', '/principles/2']
+---
+Government data sets, data analyses and products often have voluminous complexity behind them. Data practitioners should strive to document and enhance understanding relative to the product’s reach. With colleagues, we may simply need to document our work as transparently as possible, including support for data disclosure and AI governance boards. With the public, we hold a high standard to maximize access to open data by providing glossaries dictionaries and guides to fully explain the source data and context, analysis decisions, model assumptions, algorithmic methods and any other considerations. 
+
+## Guidelines
+- Publish your data with appropriate context explaining the provenance and limitations of the data. Include timeframes for when data was collected and published. If the data source will be updated regularly, include that.
+- Publish data sets with an accurate data glossary, explaining key terms. An example is ED ESF.
+- Publish data sets with a data dictionary, which explains the fields, their meaning and type.
+- Test your data publication and visualization before publishing with audiences unfamiliar with the context.
+- If published on a webpage, leverage Touchpoints for free mechanisms to collect data feedback.
+
+## Key Resources
+- [A Quick Guide to Data Dictionary (cms.gov)](https://www.cms.gov/files/document/data-dictionary-quick-reference-guide.pdf)

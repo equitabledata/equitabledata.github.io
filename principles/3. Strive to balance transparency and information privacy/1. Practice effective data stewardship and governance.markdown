@@ -1,0 +1,14 @@
+---
+title: '3.1. Practice effective stewardship and governance'
+permalink: /principles/3/1
+parent: ['3. Strive to balance transparency and information privacy', '/principles/3']
+---
+Data governance is a set of procedures and guidelines that detail how data is to be properly managed, accessed, and used. Data stewardship is about day-to-day management and oversight of data assets to ensure data quality, consistency, and accuracy.
+
+## Guidelines
+- Know your Department’s governance rules
+- Implement your Department’s stewardship requirements
+
+## Key resources
+- [Data Governance Playbook (Federal Data Strategy, July 2020)](https://resources.data.gov/assets/documents/fds-data-governance-playbook.pdf)
+- [Data Quality, Data Stewardship, Data Governance: Three Keys (Dataversity, 1/26/22)](https://www.dataversity.net/data-quality-data-stewardship-data-governance-three-keys/)

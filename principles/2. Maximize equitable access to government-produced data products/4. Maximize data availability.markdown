@@ -1,0 +1,12 @@
+---
+title: '2.4. Maximize data availability'
+permalink: /principles/2/4
+parent: ['2. Maximize equitable access to government-produced data products', '/principles/2']
+---
+The Federal Data Strategy asks us to promote wide access to data by “in open, machine-readable form and through multiple mechanisms, including through both federal and non-federal providers, to meet stakeholder needs while protecting privacy, confidentiality, and proprietary interests.” Also, Diversify Data Access Methods: Invest in the creation and usability of multiple tiers of access to make data as accessible as possible while minimizing privacy risk and protecting confidentiality.
+## Guidelines
+- Work with agency stakeholders responsible for open data and the agency Open Data Plan. Determine if data can be safely and appropriately released, and at what level of detail.
+- Some data may be appropriate for tiered researcher access. Utilize mechanisms for tiered access include NAIRR, etc. 
+- Maximize public access. Make data product dashboards, maps and tools available and performant on mobile devices.
+- Use formats like CSV that can be used in common and/or free software, like Excel and Google docs.
+- Publish data on platforms or through APIs without cost per use subscriptions – ex. Open vs. Closed API.

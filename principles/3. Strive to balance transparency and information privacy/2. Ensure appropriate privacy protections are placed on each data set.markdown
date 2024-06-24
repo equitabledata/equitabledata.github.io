@@ -1,0 +1,8 @@
+---
+title: '3.2. Ensure appropriate privacy protections are placed on each data set (including tiered access for researchers, and potential aggregation)'
+permalink: /principles/3/2
+parent: ['3. Strive to balance transparency and information privacy', '/principles/3']
+---
+The [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) governs the collection, maintenance, use, and dissemination of personally identifiable information (PII) about individuals maintained by federal agencies. No agency shall disclose any record to any person without the prior written consent of the individual (with limited exceptions). A willful disclosure could result in a misdemeanor charge and/or a fine.
+
+The [Confidential Information Protection and Statistical Efficiency Act (CIPSEA) of 2018](https://www.bls.gov/bls/cipsea.pdf) protects PII from disclosure when information is collected under a pledge of confidentiality and for statistical purposes. A willful disclosure could result in a felony charge with substantial fines and/or a prison sentence.
